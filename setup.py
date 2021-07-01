@@ -1,5 +1,5 @@
 """Temporary setuptools bridge
-Don't use this except if you have a deadline or you encounter a bug.
+Testing
 """
 import re
 import sys
